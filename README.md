@@ -57,4 +57,4 @@ I am currently pursuing a backend software engineering internship for the summer
 ### Fast Food Terminal
 - **Description:** A web app that allows users to enter records into a database simulating a fast-food system.
 - **Technologies Used:** Apache Derby, SQL, Java, Javascript, HTML
-- **Link to Project:** [GitHub Repository]()
+- **Link to Project:** [GitHub Repository](https://github.com/thomasmclinden/Fast-Food-Terminal)
