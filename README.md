@@ -11,7 +11,6 @@ I am currently pursuing a backend software engineering internship for the summer
 - Kotlin
 - SQL
 - HTML
-- JavaScript
 
 **Applications:**
 - Git
