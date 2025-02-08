@@ -48,6 +48,11 @@ I am currently pursuing a backend software engineering internship for the summer
 - **Technologies Used:** Python
 - **Link to Project:** [GitHub Repository](https://github.com/thomasmclinden/CrimeTracker)
 
+### Stock Market Price Analyzer
+- **Description:** This Python project analyzes stock market prices and provides useful insights such as sorting stock prices, detecting anomalies, identifying the maximum profit period, and finding the closest points between two data points. It also includes data visualization to help understand the stock price trends and anomalies.
+- **Technologies Used:** Python
+- **Link to Project:** [GitHub Repository](https://github.com/thomasmclinden/Stock-Market-Price-Analyzer)
+
 ### File Manager
 - **Description:** A python app that simulates a file manager using a search tree data structure.
 - **Technologies Used:** Python
